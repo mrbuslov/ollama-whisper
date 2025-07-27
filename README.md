@@ -1,5 +1,5 @@
 ## ⚠️ Read it first!
-If you want a reliable and fast way to run Whisper without Ollama, you should go directly to this section - [With Ollama](#without-ollama).  
+If you want a reliable and fast way to run Whisper without Ollama, you should go directly to this section - [Without Ollama](#without-ollama).  
 However, if you still want to play around with it and try deploying it with Ollama, you can go to this section - [With Ollama](#run-ollama) - but in my experience, it’s not reliable. The support will probably come in the future - https://github.com/ollama/ollama/issues/1168  
 Personally, no matter where I ran it - on CPU or GPU - I encountered the following errors.
 ```
